@@ -26,4 +26,4 @@ Gravitational waves have been detected by the interferometers LIGO and VIRGO in 
 
 **`pkg_g19`** folder is the python package containing all the useful functions.
 
-The final presentation of this project can be found [**here**](https://github.com/RinaldiLuca/SpottingStellarMassBH/Presentation.ipynb)
+The final presentation of this project can be found [**here**](https://github.com/RinaldiLuca/SpottingStellarMassBH/blob/main/Presentation.ipynb)
